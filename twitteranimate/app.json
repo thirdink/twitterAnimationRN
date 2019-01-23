@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "twitteranimate",
-    "description": "This project is really great.",
-    "slug": "twitteranimate",
+    "name": "twitter Header Animation",
+    "description": "This project is only animating twitters profile header",
+    "slug": "twitter-header-animation",
     "privacy": "public",
     "sdkVersion": "31.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/thirdink/twitterAnimationRN"
   }
 }
